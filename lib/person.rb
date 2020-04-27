@@ -1,4 +1,5 @@
 class Person
 end
 
-def 
+def Person
+  
