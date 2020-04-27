@@ -3,5 +3,5 @@ def talk
   puts "Hello World!"
  end
  def walks
-   puts 
+   puts "The Person is walking"
 end 
