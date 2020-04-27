@@ -1,3 +1,3 @@
-class Person
+class 
 def talk 
   
